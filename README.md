@@ -1,5 +1,5 @@
 # text editor
-## the text editor is a software that allows you to edit and manage text , there are alot of text editors but in the end they are all the same it depends on you and what you prefer , and the defferent between text editors and the ide is that the ide is fully environment where you cant edit and manage and compile and debug.
+## the text editor is a software that allows you to edit and control text , there are alot of text editors but in the end they are all the same it depends on the user and what he/she prefer , but if u write in the google what the best the reselt will be notebad++ and the defferent between text editors and the ide is that the ide is fully environment where you cant edit and control and compile and debug.
 
 # command line
 ## the command line (terminal) is an interface to the system based on text there are no gui in it , every system has it's way to open a terminal , we use terminal by typing a command then a command line arguments , and the part of the operating system which defines how the terminal will behave and excuting comands is called shell , you can use echo command to know which shell you are using.
