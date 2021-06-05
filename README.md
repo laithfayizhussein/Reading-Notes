@@ -37,7 +37,7 @@
  
 | Assignments   | link       |
 |  :-------:  | :------  |
-| Read 01|[Read:01-Introduction to React and Components](301/read30101.md)|       
+| Read 01|[Read:01-Introduction to React and Components](301/01.md)|       
 | Read 02|[Read:02-State and Props](301/read30102.md)|
 | Read 03|[Read:03-Passing Functions as Props](301/read30103.md)| 
 |Read 04|[Read:04-React and Forms](301/read30104.md)|
