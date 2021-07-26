@@ -1,6 +1,13 @@
-# hello!! here is laith hussien ,
+# Reading Notes
 
-## ***CODE102***  reading assigments 
+## summarize about the html and js and python topic
+
+## Code 102 - Intro to Software Development
+## Code 201 - Foundations of Software Development
+## Code 301 - Intermediate Software Development
+## Code 401 - Advanced Software Development.
+
+### ***CODE102***  reading assigments 
 
 | Assignments   | link     |
 |-----------|----------|
@@ -56,12 +63,12 @@
 
 
 
-### ***CODE301*** reading assignments 
+### ***CODE401*** reading assignments 
  
 | Assignments   | link       |
 |  :-------:  | :------  |
 | Read 01|[Read:01-Beginners Guide to Big O](401/read40101.md)|       
-| Read 02|[Read:02-](401/read40102.md)|
+| Read 02|[Read:02-Reading and Writing Files in Python](401/read40102.md)|
 | Read 03|[Read:03-](401/40103.md)| 
 |Read 04|[Read:04-](401/40104.md)|
 |Read 05|[Read:05-](401/read40105.md)|
