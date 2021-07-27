@@ -68,9 +68,9 @@
 | Assignments   | link       |
 |  :-------:  | :------  |
 | Read 01|[Read:01-Beginners Guide to Big O](401/read40101.md)|       
-| Read 02|[Read:02-Reading and Writing Files in Python](401/read40102.md)|
-| Read 03|[Read:03-](401/40103.md)| 
-|Read 04|[Read:04-](401/40104.md)|
+| Read 02|[Read:02-](401/40102.md)| 
+| Read 03|[Read:03-Reading and Writing Files in Python](401/read40102.md)|
+|Read 04|[Read:04-Classes and Objects](404/40104.md)|
 |Read 05|[Read:05-](401/read40105.md)|
 |Read 06| [ Read:06-](401/read40106.md)|
 |Read 07| [ Read:07-](401/read40107.md)|
