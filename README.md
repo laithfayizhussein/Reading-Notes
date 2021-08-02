@@ -73,7 +73,7 @@
 |Read 04|[Read:04-Classes and Objects](404/40104.md)|
 |Read 05|[Read:05-Linked Lists](401/read40105.md)|
 |Read 06| [ Read:06-Random Module in Python](401/read40106.md)|
-|Read 07| [ Read:07-](401/read40107.md)|
+|Read 07| [ Read:07-List Comprehensions in Python](401/read40107.md)|
 |Read 08| [](401/read40108.md)|
 |Read 09|[](401/read40109.md)|
 |Read 10|[](401/read401010.md)|
