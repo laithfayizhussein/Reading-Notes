@@ -69,20 +69,20 @@
 |  :-------:  | :------  |
 | Read 01|[Read:01-Beginners Guide to Big O](401/read40101.md)|       
 | Read 02|[Read:02-](401/40102.md)| 
-| Read 03|[Read:03-Reading and Writing Files in Python](401/read40102.md)|
+| Read 03|[Read:03-Reading and Writing Files in Python](401/read40103.md)|
 |Read 04|[Read:04-Classes and Objects](404/40104.md)|
 |Read 05|[Read:05-Linked Lists](401/read40105.md)|
 |Read 06| [ Read:06-Random Module in Python](401/read40106.md)|
 |Read 07| [ Read:07-Python Scope](401/read40107.md)|
 |Read 08| [Read:08-List Comprehensions in Python](401/read40108.md)|
 |Read 09|[Read:09-Dunder Methods](401/read40109.md)|
-|Read 10|[Read:10-Stacks and Queues](401/read401010.md)|
-|Read 11|[Read:11-List Comprehensions in Python](401/read401011.md)|
-|Read 12| [Read:07-List Comprehensions in Python ](401/read401012.md)|
-|Read 13| [Read:07-List Comprehensions in Python](401/read401013.md)|
-|Read 14| [Read:07-List Comprehensions in Python](401/read401014.md)|
-| Read 01|[Read:07-List Comprehensions in Python](401/01.md)|       
-| Read 02|[Read:07-List Comprehensions in Python](401/read40102.md)|
+|Read 10|[Read:10-Stacks and Queues](401/read40110.md)|
+|Read 11|[Read:11-Data Analysis](401/read40111.md)|
+|Read 12| [Read:07-List Comprehensions in Python ](401/read40112.md)|
+|Read 13| [Read:07-List Comprehensions in Python](401/read40113.md)|
+|Read 14| [Read:07-List Comprehensions in Python](401/read40114.md)|
+| Read 01|[Read:07-List Comprehensions in Python](401/read40114.md)|       
+| Read 02|[Read:07-List Comprehensions in Python](401/read40114.md)|
 | Read 03|[Read:07-List Comprehensions in Python](401/40103.md)| 
 |Read 04|[](401/40104.md)|
 |Read 05|[](401/read40105.md)|
