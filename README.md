@@ -78,12 +78,12 @@
 |Read 09|[Read:09-Dunder Methods](401/read40109.md)|
 |Read 10|[Read:10-Stacks and Queues](401/read40110.md)|
 |Read 11|[Read:11-Data Analysis](401/read40111.md)|
-|Read 12| [Read:07-List Comprehensions in Python ](401/read40112.md)|
-|Read 13| [Read:07-List Comprehensions in Python](401/read40113.md)|
-|Read 14| [Read:07-List Comprehensions in Python](401/read40114.md)|
-| Read 01|[Read:07-List Comprehensions in Python](401/read40114.md)|       
-| Read 02|[Read:07-List Comprehensions in Python](401/read40114.md)|
-| Read 03|[Read:07-List Comprehensions in Python](401/40103.md)| 
+|Read 12| [Read:12-panda](401/read40112.md)|
+|Read 13| [Read:13-Linear Regression in Python](401/read40113.md)|
+|Read 14| [Read:14-List Comprehensions in Python](401/read40114.md)|
+| Read 01|[Read:15-List Comprehensions in Python](401/read40114.md)|       
+| Read 02|[Read:16-List Comprehensions in Python](401/read40114.md)|
+| Read 03|[Read:17-List Comprehensions in Python](401/40103.md)| 
 |Read 04|[](401/40104.md)|
 |Read 05|[](401/read40105.md)|
 |Read 06| [ ](401/read40106.md)|
