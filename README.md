@@ -82,8 +82,8 @@
 |Read 13| [Read:13-Linear Regression in Python](401/read40113.md)|
 |Read 14| [Read:14- Matplotlib tutorial](401/read40114.md)|
 | Read 01|[Read:15-Trees ](401/read40115.md)|       
-| Read 02|[Read:16-List Comprehensions in Python](401/read40114.md)|
-| Read 03|[Read:17-List Comprehensions in Python](401/40103.md)| 
+| Read 02|[Read:16-Data Science Primer](401/read40116.md)|
+| Read 03|[Read:17-List Comprehensions in Python](401/40117.md)| 
 |Read 04|[](401/40104.md)|
 |Read 05|[](401/read40105.md)|
 |Read 06| [ ](401/read40106.md)|
