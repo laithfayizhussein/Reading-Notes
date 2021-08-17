@@ -83,16 +83,8 @@
 |Read 14| [Read:14- Matplotlib tutorial](401/read40114.md)|
 | Read 01|[Read:15-Trees ](401/read40115.md)|       
 | Read 02|[Read:16-Data Science Primer](401/read40116.md)|
-| Read 03|[Read:17-List Comprehensions in Python](401/40117.md)| 
-|Read 04|[](401/40104.md)|
-|Read 05|[](401/read40105.md)|
-|Read 06| [ ](401/read40106.md)|
-|Read 07| [ ](401/read40107.md)|
-|Read 08| [](401/read40108.md)|
-|Read 09|[](401/read40109.md)|
-|Read 10|[](401/read401010.md)|
-|Read 11|[](401/read401011.md)|
-|Read 12| [ ](401/read401012.md)|
-|Read 13| [](401/read401013.md)|
-|Read 14| [](401/read401014.md)|
+| Read 03|[Read:17-web scraping](401/40117.md)| 
+| Read 03|[Read:18-Ceasar Cipher](401/40118.md)| 
+| Read 03|[Read:19-Regular Expressions](401/40119.md)| 
+
 
