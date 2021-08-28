@@ -81,10 +81,12 @@
 |Read 12| [Read:12-panda](401/read40112.md)|
 |Read 13| [Read:13-Linear Regression in Python](401/read40113.md)|
 |Read 14| [Read:14- Matplotlib tutorial](401/read40114.md)|
-| Read 01|[Read:15-Trees ](401/read40115.md)|       
-| Read 02|[Read:16-Data Science Primer](401/read40116.md)|
-| Read 03|[Read:17-web scraping](401/40117.md)| 
-| Read 03|[Read:18-Ceasar Cipher](401/40118.md)| 
-| Read 03|[Read:19-Regular Expressions](401/40119.md)| 
+| Read 15|[Read:15-Trees ](401/read40115.md)|       
+| Read 16|[Read:16-Data Science Primer](401/read40116.md)|
+| Read 17|[Read:17-web scraping](401/40117.md)| 
+| Read 18|[Read:18-Ceasar Cipher](401/40118.md)| 
+| Read 19|[Read:19-Regular Expressions](401/40119.md)| 
+| Read 26|[Read:Django](401/40126.md)| 
+| Read 27|[Read:19-Regular Expressions](401/40127.md)| 
 
 
