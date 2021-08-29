@@ -87,6 +87,6 @@
 | Read 18|[Read:18-Ceasar Cipher](401/40118.md)| 
 | Read 19|[Read:19-Regular Expressions](401/40119.md)| 
 | Read 26|[Read:Django](401/40126.md)| 
-| Read 27|[Read:19-Regular Expressions](401/40127.md)| 
+| Read 27|[Read:Django Models](401/40127.md)| 
 
 
