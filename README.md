@@ -89,6 +89,9 @@
 | Read 26|[Read:Django](401/40126.md)| 
 | Read 27|[Read:Django Models](401/40127.md)| 
 | Read 28|[Read:CRUD](401/40128.md)| 
+| Read 29|[Read:abstactuser](401/40129.md)| 
+| Read 30|[Read:Hashtables](401/40130.md)| 
+| Read 29|[Read:abstactuser](401/40128.md)| 
 | Read 29|[Read:abstactuser](401/40128.md)| 
 
 
