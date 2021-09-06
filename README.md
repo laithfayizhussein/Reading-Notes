@@ -92,6 +92,5 @@
 | Read 29|[Read:abstactuser](401/40129.md)| 
 | Read 30|[Read:Hashtables](401/40130.md)| 
 | Read 31|[Read:Django REST Framework & Docker](401/40131.md)| 
-| Read 29|[Read:abstactuser](401/40128.md)| 
-
-
+| Read 32|[Read:Drf Permission](401/40132.md)| 
+| Read 33|[Read:Drf Jwt](401/40133.md)| 
