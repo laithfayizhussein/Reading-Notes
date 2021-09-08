@@ -62,7 +62,6 @@
 
 
 
-
 ### ***CODE401*** reading assignments 
  
 | Assignments   | link       |
@@ -94,3 +93,4 @@
 | Read 31|[Read:Django REST Framework & Docker](401/40131.md)| 
 | Read 32|[Read:Drf Permission](401/40132.md)| 
 | Read 33|[Read:Drf Jwt](401/40133.md)| 
+| Read 34|[Read:SSH](401/40134.md)|
