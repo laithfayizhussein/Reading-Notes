@@ -98,3 +98,4 @@
 | Read 36|[Read:whiteboard](401/40136.md)|
 | Read 37|[Read:react](401/40137.md)|
 | Read 38|[Read:react](401/40138.md)|
+| Read 39|[Read:Assets, Metadata, and CSS](401/40139.md)|
