@@ -99,4 +99,5 @@
 | Read 37|[Read:react](401/40137.md)|
 | Read 38|[Read:react](401/40138.md)|
 | Read 39|[Read:Assets, Metadata, and CSS](401/40139.md)|
-| Read 41|[Read:Assets, Metadata, and CSS](401/40141.md)|
+| Read 41|[Read:Generate Pages with Dynamic Routes](401/40141.md)|
+| Read 42|[Read:Dunder Methods](401/40142.md)|
